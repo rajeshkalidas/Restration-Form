@@ -13,4 +13,4 @@ Registration Form -
  3. Open the browser in http://localhost:8081
 
 "# RegistrationForm" 
-![Screen](https://github.com/rajeshkalidas/flex-box-layout/blob/master/assets/images/flexbox.PNG)
+![Screen](https://github.com/rajeshkalidas/Restration-Form/blob/master/assets/img/registration_form.PNG)
